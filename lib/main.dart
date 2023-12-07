@@ -167,7 +167,7 @@ class MyApp extends StatelessWidget {
                 children: [
                   Text("Don't have an account?",
                       style:
-                      TextStyle(fontSize: 16, fontFamily: 'Rubik Regular')),
+                          TextStyle(fontSize: 16, fontFamily: 'Rubik Regular')),
                   SizedBox(width: 7),
                   Text('Sign Up',
                       style: TextStyle(
